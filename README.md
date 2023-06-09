@@ -116,9 +116,15 @@
 - 실시간 예약 페이지 동시 접속자 수 확인이 가능합니다. (SSE)
 - 마이페이지에서 예약 내역 조회 (취소된 예약, 지난 예약, 다가올 예약 등)가 가능합니다.
 
-![hwine 예약](README.assets/hwine 예약.png)
 
-![hwine 예약내역조회](README.assets/hwine 예약내역조회.png)
+
+![ss](README.assets/ss.png)
+
+![dd](README.assets/dd.png)
+
+
+
+
 
 ## 🗣️ 협업 관리
 
