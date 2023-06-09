@@ -59,7 +59,7 @@
 
 ## 🔗****Database Modeling****
 
-![hwine erd](README.assets/hwine erd.png)
+![hwine erd](README.assets/hwine erd-1686330698388-14.png)
 
 ## 💻 주요 기능 및 데모 영상
 
@@ -71,15 +71,9 @@
 - 상품 상세 페이지에서 실시간으로 재고의 변경 상태를 확인할 수 있습니다.
 - 사용자가 원하는 와인의 조건을 검색하면 chatGPT를 통해 와인을 추천해줍니다.
 
+![필터링다시](README.assets/필터링다시.png)
 
-
-<img src="README.assets/hwine 상품필터링.png" alt="hwine 상품필터링" style="zoom: 80%;" />
-
-![hwine 상품상세](README.assets/hwine 상품상세.png)
-
-![hwine 상품조회](README.assets/hwine 상품조회-1686330242796-7.png)![hwine 상품조회](README.assets/hwine 상품조회 정렬.png)
-
-
+![필터링이미지](README.assets/필터링이미지.png)
 
 
 
