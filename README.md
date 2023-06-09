@@ -59,7 +59,7 @@
 
 ## 🔗****Database Modeling****
 
-
+![hwine erd](README.assets/hwine erd.png)
 
 ## 💻 주요 기능 및 데모 영상
 
@@ -71,6 +71,18 @@
 - 상품 상세 페이지에서 실시간으로 재고의 변경 상태를 확인할 수 있습니다.
 - 사용자가 원하는 와인의 조건을 검색하면 chatGPT를 통해 와인을 추천해줍니다.
 
+
+
+<img src="README.assets/hwine 상품필터링.png" alt="hwine 상품필터링" style="zoom: 80%;" />
+
+![hwine 상품상세](README.assets/hwine 상품상세.png)
+
+![hwine 상품조회](README.assets/hwine 상품조회-1686330242796-7.png)![hwine 상품조회](README.assets/hwine 상품조회 정렬.png)
+
+
+
+
+
 ### **와인 리뷰 (디캔팅 북) 작성**
 
 - 와인에 대한 리뷰를 구매와 상관 없이 작성할 수 있습니다.
@@ -81,7 +93,12 @@
 ### **회원관리**
 
 - 사용자와 관리자 권한을 부여해 관리자는 백오피스에 접근 가능합니다.
+
 - 내가 쓴 와인 리뷰와 나의 파티 정보, 팔로우 목록을 확인할 수 있습니다.
+
+  
+
+
 
 
 ### **장바구니 및 결제**
@@ -100,21 +117,25 @@
 - 실시간 예약 페이지 동시 접속자 수 확인이 가능합니다. (SSE)
 - 마이페이지에서 예약 내역 조회 (취소된 예약, 지난 예약, 다가올 예약 등)가 가능합니다.
 
+![hwine 예약](README.assets/hwine 예약.png)
 
+![hwine 예약내역조회](README.assets/hwine 예약내역조회.png)
 
 ## 🗣️ 협업 관리
 
 **Confluence Daily Scrum**
 
-![Untitled](ReadMe%208118f36887da4163b0ce9d919fa5ba90/Untitled%203.png)
+<img src="README.assets/아임화인_데일리스크럼.png" alt="아임화인_데일리스크럼" style="zoom: 67%;" /><img src="README.assets/아임화인_컨플루언스_회고록.png" alt="아임화인_컨플루언스_회고록" style="zoom:67%;" />
 
 ---
 
 **Notion**
 
-
+<img src="README.assets/아임화인_노션.png" alt="아임화인_노션" style="zoom:67%;" />
 
 ## 👩‍👩‍👧 개발 멤버 소개
+
+<img src="README.assets/아임화인_팀소개.png" alt="아임화인_팀소개" style="zoom: 80%;" />
 
 
 ## 📅 프로젝트 기간
