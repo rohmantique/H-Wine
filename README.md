@@ -130,4 +130,4 @@
 | 구분 | 링크 |
 | --- | --- |
 | 기능 정의서 | [기능 정의서 보러 가기](https://docs.google.com/spreadsheets/d/1SG_bJGvJPfi2yF6W1LreMpDNPG6bZH_UzkCpi7KKo00/edit?usp=sharing)|
-| 발표 자료 | [발표 자료 보러 가기]( ) |
+| 발표 자료 | [발표 자료 보러 가기](https://github.com/rohmantique/H-Wine/blob/master/presentation/%EC%95%84%EC%9E%84%ED%99%94%EC%9D%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
