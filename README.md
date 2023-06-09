@@ -59,7 +59,9 @@
 
 ## 🔗****Database Modeling****
 
-![hwine erd](README.assets/hwine erd-1686330698388-14.png)
+![erd](README.assets/erd.png)
+
+
 
 ## 💻 주요 기능 및 데모 영상
 
