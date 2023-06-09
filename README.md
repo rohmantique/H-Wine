@@ -73,11 +73,11 @@
 - 상품 상세 페이지에서 실시간으로 재고의 변경 상태를 확인할 수 있습니다.
 - 사용자가 원하는 와인의 조건을 검색하면 chatGPT를 통해 와인을 추천해줍니다.
 
-![필터링다시](README.assets/필터링다시.png)
+<img src="README.assets/필터링다시.png" alt="필터링다시" style="zoom: 67%;" />
 
-![필터링이미지](README.assets/필터링이미지.png)
+<img src="README.assets/필터링이미지.png" alt="필터링이미지" style="zoom:67%;" />
 
-![화인상세](README.assets/화인상세.png)
+<img src="README.assets/화인상세.png" alt="화인상세" style="zoom:67%;" />
 
 ### **와인 리뷰 (디캔팅 북) 작성**
 
@@ -85,7 +85,7 @@
 - 와인에 대한 유저들의 리뷰를 종합해 chatGPT가 해당 와인에 대한 한줄평을 작성합니다.
 - 와인에 대한 회원별 분석, 회원에 대한 와인 분석을 조회할 수 있습니다.
 
-![와인분석](README.assets/와인분석.png)
+<img src="README.assets/와인분석.png" alt="와인분석" style="zoom:67%;" />
 
 ### **회원관리**
 
@@ -97,7 +97,7 @@
 
   
 
-![회원관리](README.assets/회원관리.png)
+<img src="README.assets/회원관리.png" alt="회원관리" style="zoom:67%;" />
 
 
 ### **장바구니 및 결제**
@@ -107,7 +107,7 @@
 - 시음권을 구매할 수 있습니다.
 - 카카오페이/신용카드 결제가 가능합니다.
 
-![장바구니결제](README.assets/장바구니결제-1686331522947-27.png)
+<img src="README.assets/장바구니결제-1686331522947-27.png" alt="장바구니결제" style="zoom:67%;" />
 
 
 
@@ -120,9 +120,9 @@
 
 
 
-![ss](README.assets/ss.png)
+<img src="README.assets/ss.png" alt="ss" style="zoom:67%;" />
 
-![dd](README.assets/dd.png)
+<img src="README.assets/dd.png" alt="dd" style="zoom:67%;" />
 
 
 
@@ -132,17 +132,17 @@
 
 **Confluence Daily Scrum**
 
-<img src="README.assets/아임화인_데일리스크럼.png" alt="아임화인_데일리스크럼" style="zoom: 67%;" /><img src="README.assets/아임화인_컨플루언스_회고록.png" alt="아임화인_컨플루언스_회고록" style="zoom:67%;" />
+<img src="README.assets/아임화인_데일리스크럼.png" alt="아임화인_데일리스크럼" style="zoom: 33%;" /><img src="README.assets/아임화인_컨플루언스_회고록.png" alt="아임화인_컨플루언스_회고록" style="zoom: 50%;" />
 
 ---
 
 **Notion**
 
-<img src="README.assets/아임화인_노션.png" alt="아임화인_노션" style="zoom:67%;" />
+<img src="README.assets/아임화인_노션.png" alt="아임화인_노션" style="zoom: 50%;" />
 
 ## 👩‍👩‍👧 개발 멤버 소개
 
-<img src="README.assets/아임화인_팀소개.png" alt="아임화인_팀소개" style="zoom: 80%;" />
+<img src="README.assets/아임화인_팀소개.png" alt="아임화인_팀소개" style="zoom: 50%;" />
 
 
 ## 📅 프로젝트 기간
